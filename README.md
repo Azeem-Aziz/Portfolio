@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built to showcase my skills, projects, and background as a Software Engineering student and backend web developer.
 
-🔗 **Live Demo:** _(add your hosted link here once deployed, e.g. GitHub Pages / Netlify link)_
+🔗 **Live Demo:** _(add your hosted link here once deployed, e.g. GitHub Pages /)_
 
 ## About
 
