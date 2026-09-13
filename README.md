@@ -2,11 +2,11 @@
 
 This is my personal portfolio website, built to showcase my skills, projects, and background as a Software Engineering student and backend web developer.
 
-🔗 **Live Demo:** _(add your hosted link here once deployed, e.g. GitHub Pages /)_
+🔗 **Live Demo:** https://azeem-aziz.github.io/Portfolio/
 
 ## About
 
-I'm a Software Engineering student specializing in backend web development with PHP and Laravel. This portfolio highlights my skills, my project (CinemaBook), and a way to get in touch for internship or freelance opportunities.
+I'm a Software Engineering student specializing in backend web development with PHP and Laravel. This portfolio highlights my skills, my project (CinemaBook), and a way to get in touch for internship or freelance opportunities.I specialize in backend development with PHP and Laravel, and build the frontend for my own projects using HTML, CSS, and JavaScript.
 
 ## Built With
 
@@ -25,19 +25,18 @@ I'm a Software Engineering student specializing in backend web development with 
 
 ## Folder Structure
 
-```
-│
+Portfolio/
 ├── index.html      # Main HTML file (all sections)
 ├── index.css       # Custom styles (colors, animations, cards)
 ├── script.js       # Scroll-reveal animation + navbar auto-close
 ├── images/         # Profile picture and project screenshots
+├── files/          # Downloadable resume (PDF)
 └── README.md
-```
 
 ## Sections
 
 - **About** – Introduction, current focus, and education (SZABIST BSCS + Aptech ACCP AI Diploma)
-- **Skills** – PHP, Laravel, MySQL, WordPress, HTML5, CSS3, JavaScript, Bootstrap, Git & GitHub
+- **Skills** – PHP, Laravel, MySQL, HTML5, CSS3, JavaScript, Bootstrap, Git & GitHub
 - **Projects** – [CinemaBook](https://cinemabook.freedev.app/) — a full-stack movie booking system (PHP + MySQL)
 - **Certificates** – Placeholder section, will be updated once certificates are received
 - **Contact** – Email and social links
@@ -47,7 +46,7 @@ I'm a Software Engineering student specializing in backend web development with 
 Since this is a static website (no backend/server-side code), you can run it in two simple ways:
 
 1. **Directly in browser:** Just open `index.html` in any browser.
-2. **Using XAMPP:** Place the folder inside `htdocs`, start Apache, and visit `http://localhost/portfolio/`.
+2. **Using Live Server (VS Code):** Right-click `index.html` → "Open with Live Server" for auto-refresh while editing.
 
 ## Future Improvements
 
